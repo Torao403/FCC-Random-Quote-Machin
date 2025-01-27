@@ -48,7 +48,7 @@ function App() {
             marginRight: '10px',
             transition
           }}><FaTwitter color="white" /></a>
-          <button id="new-quote" onClick={changeQuote} style={{ backgroundColor: randomColor, color: "white", transition }}>Change Quote</button>
+          <button id="new-quote" onClick={changeQuote} style={{ backgroundColor: randomColor, color: "white", transition }}>Cambiar Frase</button>
         </div>
       </div>
     </div>)
